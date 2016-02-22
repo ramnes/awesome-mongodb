@@ -116,10 +116,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### PHP
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
+ - [eloquent-mongodb-repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
+ - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+ - [mongodb-repository](https://github.com/PHPRepository/php-mongodb-repository) - Repository implementation
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
- - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - An Eloquent model and query builder for Laravel
- - [mongodb-repository](https://github.com/PHPRepository/php-mongodb-repository) A MongoDB Repository implementation.
- - [eloquent-mongodb-repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) A MongoDB Repository implementation built on top [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb).
 
 ### Python
  - [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
