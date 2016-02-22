@@ -34,6 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
     - [GUI](#gui)
     - [Web](#web)
   - [Administration](#administration)
+  - [Big Data](#big-data)
   - [Monitoring](#monitoring)
   - [Deployment](#deployment)
  - [Applications](#applications)
@@ -153,6 +154,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module
+
+### Big Data
+ - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop
 
 ### Monitoring
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
