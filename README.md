@@ -29,14 +29,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [Ruby](#ruby)
   - [Scala](#scala)
  - [Tools](#tools)
-  - [Clients](#clients)
-    - [Shell](#shell)
-    - [GUI](#gui)
-    - [Web](#web)
   - [Administration](#administration)
   - [Big Data](#big-data)
-  - [Monitoring](#monitoring)
+  - [Clients](#clients)
+    - [GUI](#gui)
+    - [Shell](#shell)
+    - [Web](#web)
   - [Deployment](#deployment)
+  - [Monitoring](#monitoring)
  - [Applications](#applications)
 
 ## Resources
@@ -132,20 +132,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 
 ## Tools
-### Clients
-#### Shell
- - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
-
-#### GUI
- - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
- - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
-
-#### Web
- - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
- - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap
- - [mongri](https://github.com/dongri/mongri) - A web-based user interface for MongoDB (written in JavaScript)
- - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
-
 ### Administration
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper for MongoDB
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
@@ -158,6 +144,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Big Data
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop
 
+### Clients
+#### GUI
+ - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
+ - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
+
+#### Shell
+ - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
+
+#### Web
+ - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface written with Node.js, Express and Bootstrap3
+ - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap
+ - [mongri](https://github.com/dongri/mongri) - A web-based user interface for MongoDB (written in JavaScript)
+ - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
+
+### Deployment
+ - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
+ - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
+ - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module
+ - [Dockerfile](https://github.com/dockerfile/mongodb)
+
 ### Monitoring
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop](https://github.com/tart/motop) - MongoDB top clone
@@ -165,12 +171,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin
-
-### Deployment
- - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
- - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
- - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module
- - [Dockerfile](https://github.com/dockerfile/mongodb)
 
 ## Applications
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
