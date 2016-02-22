@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mgo](https://github.com/go-mgo/mgo) - Community Go driver
 
 ### Haskell
- - [mongodb](https://github.com/mongodb-haskell/mongodb/) Community Haskell driver
+ - [mongodb](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
 ### Java
  - [Jongo](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
