@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MEAN.JS](https://github.com/meanjs/mean) - Full-Stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full-Stack based on MongoDB, Express, React and Node.js
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
+ - [Moonridge](https://github.com/capaj/Moonridge) - a framework with live querying on top of Mongoose and socket.io
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Julia
