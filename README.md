@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [C](#c)
   - [C++](#c-1)
   - [C#/.NET](#cnet)
+  - [Delphi](#delphi)
   - [Erlang](#erlang)
   - [Go](#go)
   - [Haskell](#haskell)
@@ -74,6 +75,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-queue-csharp](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue backed by MongoDB
  - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+
+### Delphi
+ - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
