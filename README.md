@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Scala
  - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
+ - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration
