@@ -162,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Clients
 #### GUI
+ - [HumongouS.io](https://www.humongous.io) - Web based GUI
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
 
