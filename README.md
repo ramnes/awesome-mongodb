@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Lisp](#lisp)
+  - [Mathematica](#mathematica)
   - [Perl](#perl)
   - [PHP](#php)
   - [Python](#python)
@@ -116,6 +117,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [cl-mongo](https://github.com/fons/cl-mongo) - Community Common Lisp interface
  - [mongo-cl-driver](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
  - [mongo-el](https://github.com/m2ym/mongo-el) - Community Emacs Lisp driver
+
+### Mathematica
+ - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
 ### Perl
  - [mongo-perl-driver](https://github.com/mongodb/mongo-perl-driver) - Official Perl driver
