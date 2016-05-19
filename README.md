@@ -196,12 +196,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Dockerfile](https://github.com/dockerfile/mongodb)
 
 ### Monitoring
+ - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop](https://github.com/tart/motop) - MongoDB top clone
  - [mtop](https://github.com/beaufour/mtop) - Another top clone
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
- - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin
+ - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
 ## Applications
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
