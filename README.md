@@ -169,6 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module
+ - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Big Data
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop
