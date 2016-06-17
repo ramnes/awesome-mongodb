@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [Perl](#perl)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -145,6 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+
+### R
+ - [mongolite](https://github.com/jeroenooms/mongolite) - Fast and Simple MongoDB Client for R
 
 ### Ruby
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
