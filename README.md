@@ -149,7 +149,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### R
  - [mongolite](https://github.com/jeroenooms/mongolite) - Fast and Simple MongoDB Client for R
- - [RMongo](https://github.com/tc/RMongo) - R client to interface with MongoDB
 
 ### Ruby
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
