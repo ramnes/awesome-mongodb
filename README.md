@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+ - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ### R
  - [mongolite](https://github.com/jeroenooms/mongolite) - Fast and Simple MongoDB Client for R
