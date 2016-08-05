@@ -184,7 +184,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 #### GUI
  - [HumongouS.io](https://www.humongous.io) - Web based GUI
  - [MongoChef](http://3t.io/mongochef) - Cross-platform MongoDB manager, stable and powerful
- - [MongoBooster](http://www.mongobooster.com) - shell-centric cross-platform GUI, which provides update-in-place, fluent query builder, ES6 syntax support and true intellisense experience.
+ - [MongoBooster](http://www.mongobooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
 
