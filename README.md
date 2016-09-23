@@ -213,6 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+ - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog?ref=awesome) - SaaS-based MongoDB monitoring
 
 ## Applications
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
