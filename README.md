@@ -207,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
+ - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog?ref=awesome) - SaaS-based MongoDB monitoring
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop](https://github.com/tart/motop) - MongoDB top clone
  - [mtop](https://github.com/beaufour/mtop) - Another top clone
