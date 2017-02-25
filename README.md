@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Tutorials
  - [Create a TV Show Tracker Using AngularJS, Node.js, and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) - Build a REST API using Mongoose to create and retrieve data from MongoDB
  - [Write a Tumblelog Application with Flask and MongoEngine](https://docs.mongodb.org/ecosystem/tutorial/write-a-tumblelog-application-with-flask-mongoengine/) - Nice Python tutorial hidden into the official Python driver documentation
+ - [Kubernetes examples](https://github.com/kubernetes/kubernetes/tree/master/examples/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on [Kubernetes](https://kubernetes.io/docs/whatisk8s/)
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
@@ -202,8 +203,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
- - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module
  - [Dockerfile](https://github.com/dockerfile/mongodb)
+ - [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/mongodb) - Bootstraps a MongoDB deployment on a [Kubernetes](https://kubernetes.io/docs/whatisk8s/) cluster using the [Helm](https://github.com/kubernetes/helm) package manager.
+ - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
