@@ -203,7 +203,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
  - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module
- - [Dockerfile](https://github.com/dockerfile/mongodb)
+ - Docker
+  - [Dockerfile](https://github.com/dockerfile/mongodb)
+  - [Official Kuberentes examples](https://github.com/kubernetes/kubernetes/tree/master/examples/nodesjs-mongodb) - The following document describes the deployment of a basic Node.js and MongoDB web stack on [Kubernetes](https://kubernetes.io/docs/whatisk8s/)
+  - [Official Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/mongodb) - The chart bootstraps a MongoDB deployment on a [Kubernetes](https://kubernetes.io/docs/whatisk8s/) cluster using the [Helm](https://github.com/kubernetes/helm) package manager.
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
