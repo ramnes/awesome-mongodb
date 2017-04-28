@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
