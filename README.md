@@ -36,12 +36,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Tools](#tools)
   - [Administration](#administration)
   - [Big Data](#big-data)
-  - [Clients](#clients)
-    - [GUI](#gui)
-    - [Shell](#shell)
-    - [Web](#web)
   - [Deployment](#deployment)
+  - [Desktop](#desktop)
   - [Monitoring](#monitoring)
+  - [Shell](#shell)
+  - [Web](#web)
  - [Applications](#applications)
 
 ## Resources
@@ -183,30 +182,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Big Data
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop
 
-### Clients
-#### GUI
- - [HumongouS.io](https://www.humongous.io) - Web based GUI
- - [MongoChef](http://3t.io/mongochef) - Cross-platform MongoDB manager, stable and powerful
- - [MongoBooster](http://www.mongobooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager
- - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
- - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
-
-#### Shell
- - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
-
-#### Web
- - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
- - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3
- - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap
- - [mongri](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
- - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
-
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
  - [Dockerfile](https://github.com/dockerfile/mongodb)
  - [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/mongodb) - Bootstraps a MongoDB deployment on a [Kubernetes](https://kubernetes.io/docs/whatisk8s/) cluster using the [Helm](https://github.com/kubernetes/helm) package manager.
  - [puppetlabs-mongodb](https://github.com/puppetlabs/puppetlabs-mongodb) - Puppet module
+
+### Desktop
+ - [MongoChef](http://3t.io/mongochef) - Cross-platform MongoDB manager, stable and powerful
+ - [MongoBooster](http://www.mongobooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager
+ - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
+ - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
@@ -217,6 +204,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+
+### Shell
+ - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
+
+### Web
+ - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
+ - [Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. commercial online GUI and data-visualization platform
+ - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
+ - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3
+ - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap
+ - [mongri](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
+ - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
 ## Applications
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
