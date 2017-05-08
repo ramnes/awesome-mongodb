@@ -117,6 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongration](https://github.com/eberhara/mongration) - Node.js migration framework
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [mongodb-to-elasticsearch](https://github.com/enginkartal/mongodb-to-elasticsearch) - MongoDB to ElasticSearch Data Transfer
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - Bindings on MongoDB official C driver
