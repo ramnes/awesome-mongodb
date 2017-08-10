@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Resources](#resources)
    - [Documentation](#documentation)
    - [Articles](#articles)
+   - [Books](#books)
    - [Talks](#talks)
    - [Tutorials](#tutorials)
    - [More](#more)
@@ -54,6 +55,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](http://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
+
+### Books
+ - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
