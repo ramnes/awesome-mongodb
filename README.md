@@ -72,7 +72,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
  - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
- - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/) - MongoDB Inc. cloud offer
+ - [MongoDB Cloud Services](https://www.mongodb.com/cloud/) - MongoDB Cloud Services
+ - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Database as a Service
+ - [MongoDB Stitch - Beta](https://www.mongodb.com/cloud/stitch) - MongoDB Backend as a Service
+ - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Cloud Manager 
  - [MongoLab](https://mongolab.com/) - Fully managed MongoDB-as-a-Service
  - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
 
