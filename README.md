@@ -75,6 +75,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/) - MongoDB Inc. cloud offer
  - [MongoLab](https://mongolab.com/) - Fully managed MongoDB-as-a-Service
  - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
+ - [The Magical Marvels of MongoDB](https://www.codeschool.com/courses/the-magical-marvels-of-mongodb) - MongoDB online course with few free lessons
 
 ## Libraries
 ### C
