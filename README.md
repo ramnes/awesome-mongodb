@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Elixir
  - [mongodb](https://github.com/ankhers/mongodb) - Community Elixir driver
+ - [mongodb_ecto](https://github.com/ankhers/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
