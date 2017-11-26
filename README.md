@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [C++](#c-1)
    - [C#/.NET](#cnet)
    - [Delphi](#delphi)
+   - [Elixir](#elixir)
    - [Erlang](#erlang)
    - [Go](#go)
    - [Haskell](#haskell)
@@ -92,6 +93,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Delphi
  - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
+
+### Elixir
+ - [mongodb](https://github.com/ankhers/mongodb) - Community Elixir driver
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
