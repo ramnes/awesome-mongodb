@@ -177,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Tools
 ### Administration
+ - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator for MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper for MongoDB
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your MongoDB setup
