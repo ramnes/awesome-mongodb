@@ -2,7 +2,7 @@
 
 # Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Build status](https://travis-ci.org/ramnes/awesome-mongodb.svg?branch=master)](https://travis-ci.org/ramnes/awesome-mongodb)
+[![Build status](https://api.travis-ci.org/ramnes/awesome-mongodb.svg?branch=master)](https://travis-ci.org/ramnes/awesome-mongodb)
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
