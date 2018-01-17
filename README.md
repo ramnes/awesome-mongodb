@@ -2,7 +2,7 @@
 
 # Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Build status](https://api.travis-ci.org/ramnes/awesome-mongodb.svg?branch=master)](https://travis-ci.org/ramnes/awesome-mongodb)
+[![Build status](https://img.shields.io/travis/ramnes/awesome-mongodb.svg)](https://travis-ci.org/ramnes/awesome-mongodb)
 [![Issue closure](https://img.shields.io/issuestats/i/github/ramnes/awesome-mongodb.svg)](http://issuestats.com/github/ramnes/awesome-mongodb)
 [![Pull closure](https://img.shields.io/issuestats/p/github/ramnes/awesome-mongodb.svg)](http://issuestats.com/github/ramnes/awesome-mongodb)
 
