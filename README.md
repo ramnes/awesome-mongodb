@@ -234,6 +234,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
 ## Applications
+ - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built on Node.js and MongoDB 
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
  - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
