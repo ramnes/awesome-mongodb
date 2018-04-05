@@ -153,7 +153,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Python
- - [Flask-PyMongo](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
