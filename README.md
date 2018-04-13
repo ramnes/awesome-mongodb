@@ -239,6 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js and MongoDB based forum software ("built for the modern web")
  - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB
+ - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6 and MongoDB
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
 
 ## License
