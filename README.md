@@ -220,6 +220,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
+ - [PMM](https://percona.com/pmm) - Percona Monitoring and Management, a free and open-source platform for managing and monitoring MongoDB® performance
 
 ### Shell
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
