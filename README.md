@@ -208,7 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ### Desktop
- - [dbKoda](https://www.dbkoda.com) - Open-source, next generation IDE for MongoDB with Performance Monitoring, Graphical Explain, Query Builders, Topology Tree and more.
+ - [dbKoda](https://www.dbkoda.com) - Open-source, cross-platform IDE for MongoDB
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform, open-source MongoDB client built with Electron
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager (formerly MongoBooster)
