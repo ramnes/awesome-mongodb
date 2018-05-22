@@ -189,6 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - A dataset migration tool from MongoDB to Elasticsearch and vice versa
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-Master MongoDB replication
+ - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
  - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
