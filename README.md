@@ -221,6 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop](https://github.com/tart/motop) - MongoDB top clone
  - [mtop](https://github.com/beaufour/mtop) - Another top clone
+ - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
