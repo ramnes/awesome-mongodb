@@ -77,7 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
  - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
- - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/) - MongoDB Inc. cloud offer
+ - [MongoDB Cloud Manager](https://www.mongodb.com/cloud) - MongoDB Inc. cloud offer
  - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
  - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
 
