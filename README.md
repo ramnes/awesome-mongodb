@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Tutorials
  - [Create a TV Show Tracker Using AngularJS, Node.js, and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) - Build a REST API using Mongoose to create and retrieve data from MongoDB
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+ - [Programming Community Curated Resources For Learning MongoDB](https://hackr.io/tutorials/learn-mongodb)
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
