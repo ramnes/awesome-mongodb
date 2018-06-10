@@ -150,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
  - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+ - [Leaf ORM](https://github.com/eman-development-design/Leaf-Orm) - A super light ORM-ish library for using MongoDB with PHP
  - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
