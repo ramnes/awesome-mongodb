@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full-Stack based on MongoDB, Express, React and Node.js
  - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework, based on MongoDB, with lots of features
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
+ - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
