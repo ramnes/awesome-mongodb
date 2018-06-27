@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Books
  - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction to MongoDB
+ - [Builder Book](https://builderbook.org/book) - Learn how to build a full stack JavaScript web app from scratch
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
@@ -249,6 +250,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6 and MongoDB
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
+ - [Builder Book App](https://github.com/builderbook/builderbook) - Open source web app to publish books or documentation; built with React, Material-UI, Next, Express, Mongoose, MongoDB
+ - [SaaS Boilerplate](https://github.com/async-labs/saas) - Open source web app to quickly build your own SaaS product; built with React, Material-UI, Next, MobX, Express, Mongoose, MongoDB, Typescript
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
