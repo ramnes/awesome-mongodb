@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
+ - [Builder Book](https://builderbook.org/book) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction to MongoDB
 
@@ -242,12 +243,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
 ## Applications
+ - [Builder Book App](https://github.com/builderbook/builderbook) - Open source web app to publish books or documentation; built with React, Material-UI, Next, Express, Mongoose, MongoDB
  - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built on Node.js and MongoDB 
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js and MongoDB based forum software ("built for the modern web")
  - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6 and MongoDB
+  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Open source web app to quickly build your own SaaS product; built with React, Material-UI, Next, MobX, Express, Mongoose, MongoDB, Typescript
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
 
 ## License
