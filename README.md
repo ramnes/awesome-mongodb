@@ -206,7 +206,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
  - [Dockerfile](https://github.com/dockerfile/mongodb)
- - [Helm Chart](https://github.com/kubernetes/charts/tree/master/stable/mongodb) - Bootstraps a MongoDB deployment on a Kubernetes cluster using the Helm package manager.
+ - [Helm Chart](https://github.com/helm/charts/tree/master/stable/mongodb) - Bootstraps a MongoDB deployment on a Kubernetes cluster using the Helm package manager.
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ### Desktop
