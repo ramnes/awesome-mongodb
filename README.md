@@ -214,6 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager (formerly MongoBooster)
  - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform MongoDB manager (formerly Robomongo)
  - [Studio 3T](https://studio3t.com/) - Cross-platform MongoDB manager, stable and powerful (formerly MongoChef)
+ - [Mongo Management Studio](http://mms.litixsoft.de/) - Another effective tool for MongoDB management. It is possible to execute all the regular MongoDB commands without using the MongoDB shell.
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
