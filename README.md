@@ -170,7 +170,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Ruby
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
  - [Mongoid](https://github.com/mongodb/mongoid) - Ruby ODM framework
- - [awesome_explain](https://rubygems.org/gems/awesome_explain) - An awesome and simple approach to explain Mongoid queries that provides winning plan stages and overall statistics
+ - [awesome_explain](https://github.com/sandboxws/awesome_explain) - An awesome and simple approach to explain Mongoid queries
 
 ### Rust
  - [mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) - Prototype driver written for Rust 1.x and MongoDB 3.0.x
@@ -244,7 +244,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## Applications
  - [Builder Book App](https://github.com/builderbook/builderbook) - Open source web app to publish books or documentation; built with React, Material-UI, Next, Express, Mongoose, MongoDB
  - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
- - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built on Node.js and MongoDB 
+ - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built on Node.js and MongoDB
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js and MongoDB based forum software ("built for the modern web")
  - [Quokka](https://github.com/rochacbruno/quokka) - Python CMS built on top of Flask and MongoDB
