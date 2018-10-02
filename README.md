@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Big Data](#big-data)
    - [Deployment](#deployment)
    - [Desktop](#desktop)
+   - [Development](#development)
    - [Monitoring](#monitoring)
    - [Shell](#shell)
    - [Web](#web)
