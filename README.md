@@ -182,12 +182,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Tools
 ### Administration
- - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator for MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper for MongoDB
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your MongoDB setup
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
- - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - A dataset migration tool from MongoDB to Elasticsearch and vice versa
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-Master MongoDB replication
  - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
@@ -196,7 +194,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
- - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Big Data
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - MongoDB connector for Hadoop
@@ -217,7 +214,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Studio 3T](https://studio3t.com/) - Cross-platform MongoDB manager, stable and powerful (formerly MongoChef)
 
 ### Development
+ - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator for MongoDB
+ - [Mongo Playground](https://mongoplayground.net) - An online playground for MongoDB
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating MongoDB database using JS and JSON files
+ - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+ - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
@@ -240,7 +241,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
  - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap
- - [mongoplayground](https://mongoplayground.net) - An online playground for MongoDB
  - [mongri](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
