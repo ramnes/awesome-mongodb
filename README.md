@@ -171,6 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Ruby
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
  - [Mongoid](https://github.com/mongodb/mongoid) - ODM framework
+ - [awesome_explain](https://github.com/sandboxws/awesome_explain) - An awesome and simple approach to explain Mongoid queries
 
 ### Rust
  - [mongo-rust-driver-prototype](https://github.com/mongodb-labs/mongo-rust-driver-prototype) - Prototype driver for Rust 1.x and MongoDB 3.0.x
