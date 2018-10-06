@@ -80,6 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud) - MongoDB Inc. cloud offer
  - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
  - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
+ - [Atlas](https://www.mongodb.com/cloud/atlas) - Fully automated cloud service engineered and run by the same team that builds the database.
 
 ## Libraries
 ### C
