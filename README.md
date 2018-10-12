@@ -55,6 +55,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
 
 ### Articles
+
+- [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - Scale 101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
