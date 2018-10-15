@@ -39,7 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Scala](#scala)
  - [Tools](#tools)
    - [Administration](#administration)
-   - [Big Data](#big-data)
+   - [Data](#data)
    - [Deployment](#deployment)
    - [Desktop](#desktop)
    - [Development](#development)
@@ -182,22 +182,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Tools
 ### Administration
- - [MongoDB Cloud Manager](https://www.mongodb.com/cloud) - MongoDB Inc. cloud offer
- - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
+ - [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
+ - [mLab](https://mlab.com/) - Fully managed DBaaS (formerly MongoLab)
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
+ - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
+ - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
- - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
- - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
- - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
+ - [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
+ - [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (with option to bring your own Azure/AWS account)
 
-### Big Data
+### Data
+ - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
+ - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+ - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
+ - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
@@ -218,16 +223,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
  - [Mongo Playground](https://mongoplayground.net) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
+ - [MongoDB Stitch](https://www.mongodb.com/cloud) - MongoDB Inc. serverless platform offer
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
-
-### Fully Managed MongoDB-as-a-Service
-
- - [Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc's own service for AWS, Azure, GCP
- - [Compose](https://www.compose.com/) - IBM-owned DBaaS offering (offers other database types too)
- - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
- - [ObjectRocket](https://www.objectrocket.com/) - Rackspace-owned DBaaS offering (offers other database types too)
- - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
@@ -247,10 +245,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
- - [Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. commercial online GUI and data-visualization platform
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
  - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
+ - [MongoDB Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. commercial online GUI and data-visualization platform
  - [mongri](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
