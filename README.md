@@ -79,9 +79,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
  - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
- - [MongoDB Cloud Manager](https://www.mongodb.com/cloud) - MongoDB Inc. cloud offer
- - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
- - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
 
 ## Libraries
 ### C
@@ -185,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Tools
 ### Administration
+ - [MongoDB Cloud Manager](https://www.mongodb.com/cloud) - MongoDB Inc. cloud offer
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
@@ -223,6 +221,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 
+### Fully Managed MongoDB-as-a-Service
+
+ - [Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc's own service for AWS, Azure, GCP
+ - [Compose](https://www.compose.com/) - IBM-owned DBaaS offering (offers other database types too)
+ - [mLab](https://mlab.com/) - Fully managed MongoDB-as-a-Service (formerly MongoLab)
+ - [ObjectRocket](https://www.objectrocket.com/) - Rackspace-owned DBaaS offering (offers other database types too)
+ - [Scalegrid](https://scalegrid.io) - Fully managed MongoDB-as-a-Service (with option to bring your own Azure/AWS account)
+
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
  - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog/) - SaaS-based monitoring
@@ -234,6 +240,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
  - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
+ - [VividCortex](https://www.vividcortex.com) - SaaS-based query performance analytics and monitoring
 
 ### Shell
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
