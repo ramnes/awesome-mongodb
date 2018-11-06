@@ -219,6 +219,7 @@ Services:
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
+ - [Nosqlclient](https://www.nosqlclient.com) - Cross-platform and self hosted, easy to use mongodb management tool (formerly Mongoclient)
  - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 
