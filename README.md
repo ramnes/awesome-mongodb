@@ -123,7 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### JavaScript
  - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
- - [DeriveJS](https://github.com/yuval-a/derivejs) - An ODM for MongoDB that lets you use "proxied" Javascript objects and classes for automatic data persistence (no need for explicit .save,.update etc. methods, just normal "new" and "assignment" operator).
+ - [DeriveJS](https://github.com/yuval-a/derivejs) - An ODM for MongoDB that lets you use "proxied" Javascript objects and classes for automatic data persistence (no need for explicit .save/.update etc. methods, just native "new" and "assignment"(=) operators).
  - [MEAN.JS](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
  - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
