@@ -53,11 +53,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
  - [MongoDB documentation](https://docs.mongodb.com/manual/)
  - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
- - [More MongoDB tutorials (by Studio 3T)] (https://studio3t.com/knowledge-base/categories/mongodb-tutorials/)
+ - [More MongoDB tutorials (by Studio 3T)](https://studio3t.com/knowledge-base/categories/mongodb-tutorials/)
 
 ### Articles
 
- - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)] (https://www.infoq.com/articles/Starting-With-MongoDB)
+ - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - Scale 101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
