@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
  - [MongoDB documentation](https://docs.mongodb.com/manual/)
  - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
+ - [More MongoDB tutorials (by Studio 3T)] (https://studio3t.com/knowledge-base/categories/mongodb-tutorials/)
 
 ### Articles
 
