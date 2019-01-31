@@ -267,6 +267,7 @@ Services:
 
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
  - [MongoDB Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. online GUI and data-visualization platform (has a community version)
+ - [DB — AI Playground](https://play.db-ai.co) - Free online playground to write, debug and share your aggregations and queries. Like JSFiddle, but for MongoDB
 
 ## Applications
 
