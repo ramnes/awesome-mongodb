@@ -227,6 +227,7 @@ Services:
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 
 ### Development
+ - [DB — AI Playground](https://play.db-ai.co) - Online playground to write, debug and share aggregations and queries
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
  - [Mongo Playground](https://mongoplayground.net) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
