@@ -227,9 +227,6 @@ Services:
  - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
 
-### Migrations
-- [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool
-
 ### Development
  - [DB — AI Playground](https://play.db-ai.co) - Online playground to write, debug and share aggregations and queries
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
@@ -241,6 +238,9 @@ Services:
 Services:
 
  - [MongoDB Stitch](https://www.mongodb.com/cloud) - MongoDB Inc. serverless platform offer
+
+### Migration
+- [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
