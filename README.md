@@ -154,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation
+ - [PHPMongo ODM](https://github.com/sokil/php-mongo) - PHP ODM for MongoDB
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Python
@@ -225,6 +226,9 @@ Services:
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
  - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
+
+### Migrations
+- [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool
 
 ### Development
  - [DB — AI Playground](https://play.db-ai.co) - Online playground to write, debug and share aggregations and queries
