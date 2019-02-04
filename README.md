@@ -155,6 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+ - [formapro/yadm](https://github.com/formapro/yadm) - The schema less ODM. Extremely fast persistence and hydration.
 
 ### Python
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
