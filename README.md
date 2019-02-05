@@ -157,6 +157,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+ - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ### Python
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
