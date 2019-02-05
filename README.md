@@ -154,6 +154,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation
+ - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+ - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Python
