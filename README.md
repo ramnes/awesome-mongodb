@@ -163,7 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
- - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - The most idiomatic and friendly-yet-powerful ODM
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
