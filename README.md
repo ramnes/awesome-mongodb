@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Builder Book](https://builderbook.org/book) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction
+ - [50 Tips and Tricks for MongoDB Developers: Get the Most Out of Your Database ](https://www.amazon.com/50-Tips-Tricks-MongoDB-Developers-dp-1449304613/dp/1449304613/ref=mt_paperback?_encoding=UTF8&me=&qid=) - Tips and tricks for every mongo developer
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
