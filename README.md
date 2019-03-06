@@ -65,6 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
+ - [50 Tips and Tricks for MongoDB Developers](http://shop.oreilly.com/product/0636920019893.do) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
  - [Builder Book](https://builderbook.org/book) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction
