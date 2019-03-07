@@ -121,7 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-queue-java](https://github.com/gaillard/mongo-queue-java) - Java message queue on top of MongoDB
  - [mongoFS](https://github.com/dbuschman7/mongoFS) - An enhancement of GridFS to allow for more features and capabilities
  - [Mongojack](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
- - [Morphia](https://github.com/MorphiaOrg/morphia) - Java ODM ("Object-Document Mapper")
+ - [Morphia](https://github.com/MorphiaOrg/morphia) - Java ODM
  - [Morphium](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
  - [Mungbean](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
  - [Spring Data MongoDB](https://github.com/spring-projects/spring-data-mongodb) - Spring based, object-document support and repositories
