@@ -109,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Go
  - [mgo](https://github.com/globalsign/mgo) - Community Go driver
+ - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
 ### Haskell
  - [mongodb](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
