@@ -108,6 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Go
+ - [Bongo](https://github.com/go-bongo/bongo) - ODM based on mgo
  - [mgo](https://github.com/globalsign/mgo) - Community Go driver
  - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - Official Go driver
 
