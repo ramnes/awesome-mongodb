@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack MongoDB apps with frontend in Angular, Vue and React.
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C driver bindings
