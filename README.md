@@ -226,6 +226,7 @@ Services:
 
 ### Desktop
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
+ - [Mingo](https://mingo.io/) - The Usable MongoDB GUI
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
