@@ -268,6 +268,7 @@ Services:
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
  - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
+ - [Mongoku](https://github.com/huggingface/Mongoku) - MongoDB client for the web
  - [mongri](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
