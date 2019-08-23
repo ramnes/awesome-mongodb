@@ -165,9 +165,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Python
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
- - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
@@ -247,12 +247,12 @@ Services:
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
- - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
- - [Motop](https://github.com/tart/motop) - MongoDB top clone
- - [mtop](https://github.com/beaufour/mtop) - Another top clone
  - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
+ - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
+ - [Motop](https://github.com/tart/motop) - MongoDB top clone
+ - [mtop](https://github.com/beaufour/mtop) - Another top clone
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
  - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
 
