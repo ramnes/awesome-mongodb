@@ -195,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+ - [Mongster](https://github.com/mallgroup/mal-mongster) - Connect your Mongo DB nodes into one cluster within a control panel.
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) - REST client written as an Nginx module
