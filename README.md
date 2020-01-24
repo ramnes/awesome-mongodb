@@ -144,7 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Lisp
  - [cl-mongo](https://github.com/fons/cl-mongo) - Community Common Lisp interface
  - [mongo-cl-driver](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
- - [mongo-el](https://github.com/m2ym/mongo-el) - Community Emacs Lisp driver
+ - [mongo-el](https://github.com/emacsorphanage/mongo) - Community Emacs Lisp driver
 
 ### Mathematica
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
