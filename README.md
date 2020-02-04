@@ -266,6 +266,7 @@ Services:
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
+ - [momo](https://github.com/tans/momo) - super fast mongodb data viewer and analyzer 
  - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
  - [Mongoku](https://github.com/huggingface/Mongoku) - MongoDB client for the web
