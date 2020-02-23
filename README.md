@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [Factor CMS](https://github.com/fiction-com/factor) - The Javascript CMS (Built with Mongoose/MongoDB)
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C driver bindings
