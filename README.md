@@ -203,7 +203,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 Services:
 
  - [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
- - [mLab](https://mlab.com/) - Fully managed DBaaS (formerly MongoLab)
  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
  - [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
