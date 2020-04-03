@@ -78,6 +78,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Tutorials
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
+ 
+### Online courses
+- [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
