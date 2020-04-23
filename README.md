@@ -209,11 +209,12 @@ Services:
  - [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (with option to bring your own Azure/AWS account)
 
 ### Data
+ - [mongo-connector](https://github.com/yougov/mongo-connector) - Streaming replication to Elasticsearch, Solr, or MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
- - [MoSQL](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
+ - [MoSQL](https://github.com/stripe/mosql) - Streaming replication to PostgreSQL
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
