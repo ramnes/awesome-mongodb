@@ -273,6 +273,7 @@ Services:
  - [Mongoku](https://github.com/huggingface/Mongoku) - MongoDB client for the web
  - [mongri](https://github.com/dongri/mongri) - Web-based user interface written in JavaScript
  - [Rockmongo](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
+ - [WebMongo](https://github.com/jozsefsallai/webmongo) - Easy-to-use, fast, and secure web-based UI for managing MongoDB servers
 
 Services:
 
