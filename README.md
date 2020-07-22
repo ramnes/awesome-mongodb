@@ -8,6 +8,12 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
+## Sponsor
+
+Awesome MongoDB is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
+
+<a href="https://tracking.gitads.io/?repo=awesome-mongodb"><img src="https://images.gitads.io/awesome-mongodb" alt="GitAds"/></a>
+
 ## Table of Contents
  - [Resources](#resources)
    - [Documentation](#documentation)
