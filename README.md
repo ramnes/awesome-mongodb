@@ -72,9 +72,9 @@ Awesome MongoDB is being sponsored by the following tool; please help to support
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
- - [50 Tips and Tricks for MongoDB Developers](http://shop.oreilly.com/product/0636920019893.do) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
+ - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
  - [Builder Book](https://builderbook.org/book) - Learn how to build a full stack JavaScript web app from scratch
- - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
+ - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction
 
 ### Talks
@@ -107,8 +107,8 @@ Awesome MongoDB is being sponsored by the following tool; please help to support
  - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
 ### Elixir
- - [mongodb](https://github.com/ankhers/mongodb) - Community Elixir driver
- - [mongodb_ecto](https://github.com/ankhers/mongodb_ecto) - Adapter for the Ecto database wrapper
+ - [mongodb](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+ - [mongodb_ecto](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
@@ -161,9 +161,9 @@ Awesome MongoDB is being sponsored by the following tool; please help to support
 
 ### PHP
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
- - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
+ - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
- - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) - Repository implementation
+ - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
@@ -250,7 +250,7 @@ Services:
 
 Services:
 
- - [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) - MongoDB Inc. serverless platform offer
+ - [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. development services and SDK
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
@@ -267,7 +267,7 @@ Services:
 Services:
 
  - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog/) - SaaS-based monitoring
- - [VividCortex](https://www.vividcortex.com) - SaaS-based query performance analytics and monitoring
+ - [Solarwindws Database Performance Monitor](https://www.solarwinds.com/database-performance-monitor) - SaaS-based query performance analytics and monitoring
 
 ### Shell
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
