@@ -157,7 +157,7 @@ Awesome MongoDB is being sponsored by the following tool; please help to support
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
 ### Perl
- - [mongo-perl-driver](https://github.com/mongodb/mongo-perl-driver) - Official Perl driver
+ - [mongo-perl-driver](https://github.com/mongodb-labs/mongo-perl-driver) - Official Perl driver
 
 ### PHP
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
