@@ -234,6 +234,7 @@ Services:
  - [QueryAssist](https://queryassist.com) - Modern and powerful GUI tool, cross-platform and easy-to-use
  - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
+ - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
 ### Development
  - [DB — AI Playground](https://play.db-ai.co) - Online playground to write, debug and share aggregations and queries
