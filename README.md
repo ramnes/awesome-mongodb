@@ -120,7 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Jongo](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
  - [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
  - [mongo-java-driver](https://github.com/mongodb/mongo-java-driver) - Official Java driver
- - [mongo-queue-java](https://github.com/gaillard/mongo-queue-java) - Java message queue on top of MongoDB
+ - [mongo-queue-java](https://github.com/yonderblue/mongo-queue-java) - Java message queue on top of MongoDB
  - [mongoFS](https://github.com/dbuschman7/mongoFS) - An enhancement of GridFS to allow for more features and capabilities
  - [Mongojack](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
  - [Morphia](https://github.com/MorphiaOrg/morphia) - Java ODM
