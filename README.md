@@ -216,7 +216,6 @@ Services:
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
- - [MoSQL](https://github.com/stripe/mosql) - Streaming replication to PostgreSQL
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
