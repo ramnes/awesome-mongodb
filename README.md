@@ -284,7 +284,7 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
- - [Builder Book App](https://github.com/builderbook/builderbook) - Web app to publish books or documentation built with React and Express
+ - [Builder Book App](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
  - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
  - [FactorJS](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
