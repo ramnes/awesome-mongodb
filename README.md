@@ -166,6 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ### Python
+ - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
