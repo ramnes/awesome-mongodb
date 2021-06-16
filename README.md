@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+ - [MongoDB PHP Driver](git@github.com:mrlynn/awesome-mongodb.git)
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
