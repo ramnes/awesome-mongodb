@@ -245,6 +245,7 @@ Services:
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
+ - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - VS Code Extension: connect to MongoDB, navigate databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 
 Services:
 
