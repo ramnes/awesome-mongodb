@@ -228,6 +228,7 @@ Services:
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ### Desktop
+ - [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
