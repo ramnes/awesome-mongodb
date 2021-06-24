@@ -187,7 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongoid](https://github.com/mongodb/mongoid) - ODM framework
 
 ### Rust
- - [mongodb-rust](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
+ - [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Scala
  - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
