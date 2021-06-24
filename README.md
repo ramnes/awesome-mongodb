@@ -282,7 +282,6 @@ Services:
 Services:
 
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
- - [MongoDB Compass](https://www.mongodb.com/products/compass) - MongoDB Inc. online GUI and data-visualization platform (has a community version)
 
 ## Applications
 
