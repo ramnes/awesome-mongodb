@@ -67,7 +67,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
 
-
 ### Books
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
  - [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
