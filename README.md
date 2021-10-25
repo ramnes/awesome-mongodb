@@ -152,6 +152,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-cl-driver](https://github.com/archimag/mongo-cl-driver) Community Common Lisp driver
  - [mongo-el](https://github.com/emacsorphanage/mongo) - Community Emacs Lisp driver
 
+### Logstash
+ - [MongoDB Logs](https://logit.io/sources/configure/mongodb) - Send MongoDB logs to Logstash
+
 ### Mathematica
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
