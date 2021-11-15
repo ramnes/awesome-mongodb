@@ -224,7 +224,6 @@ Services:
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
  - [ProvenDB](https://www.provendb.com/) -  Blockchain based Data integrity solution for MongoDB
 
-
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
