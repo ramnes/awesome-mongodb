@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [ODMantic](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
+ - [PyMongoExplain](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
 
 ### R
  - [mongolite](https://github.com/jeroen/mongolite) - Fast and simple client for R
