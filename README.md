@@ -177,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
+ - [PyMongoExplain](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [ODMantic](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
