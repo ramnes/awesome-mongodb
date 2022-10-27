@@ -120,7 +120,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mgo](https://github.com/globalsign/mgo) - Community Go driver
  - [minquery](https://github.com/icza/minquery) - MongoDB cursor that paginates
 
-
 ### Haskell
  - [mongodb](https://github.com/mongodb-haskell/mongodb/) - Community Haskell driver
 
@@ -267,8 +266,10 @@ Services:
 
 Services:
  - [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
- - [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
 
+### Mobile
+ - [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
+  
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
  - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
