@@ -289,7 +289,7 @@ Services:
 ### Shell
  - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
  - [MongoDB Shell](https://www.mongodb.com/docs/mongodb-shell/) - Official MongoDB command-line client
- - [MongoDB Atlas CLI](https://www.mongodb.com/docs/atlas/atlas-cli/) - Official MongoDB Atlas command-line API client
+ - [MongoDB Atlas CLI](https://www.mongodb.com/docs/atlas/atlas-cli/) - Official MongoDB Atlas API command-line client
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
