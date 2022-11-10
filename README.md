@@ -234,6 +234,7 @@ Services:
  - [Dockerfile](https://github.com/dockerfile/mongodb)
  - [Helm Chart](https://github.com/helm/charts/tree/master/stable/mongodb)
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
+ - [mongodb-cluster-docker-compose](https://github.com/minhhungit/mongodb-cluster-docker-compose) - Simple sharded Mongo Cluster with a replication using docker compose
 
 ### Desktop
  - [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
