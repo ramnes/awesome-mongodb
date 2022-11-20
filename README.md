@@ -72,8 +72,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
  - [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
- - [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - How to develop effective and optimal data manipulation and analytics pipelines
- - [The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) - Basic introduction
+ - [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - Free e-book: How to develop effective and optimal data manipulation and analytics pipelines
+ - [The Little MongoDB Book](https://github.com/mongodb-developer/the-little-mongodb-book) - Basic introduction to MongoDB
  - [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
 ### Talks
@@ -82,13 +82,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Scaling MongoDB on Amazon Web Services (Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
+ - [MongoDB Developer Center](https://www.mongodb.com/developer/) - Tutorials, Code Examples, and other content directly from MongoDB organized by programming language
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
  - [Sharded Cluster with Docker Compose](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
- - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
+ - [MongoDB University](https://learn.mongodb.com/) - Certifications and free online courses
  - [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
 ## Libraries
@@ -149,6 +150,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C driver bindings
+ 
+### Kotlin
+- [kmongo](https://litote.org/kmongo/) - MongoDB Kotlin Driver
 
 ### Lisp
  - [cl-mongo](https://github.com/fons/cl-mongo) - Community Common Lisp interface
@@ -159,14 +163,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
 ### PHP
- - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
+ - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional ORM functionality
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
  - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
- - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ### Python
@@ -189,8 +192,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Ruby
  - [awesome_explain](https://github.com/sandboxws/awesome_explain) - A simple global method to explain Mongoid queries
- - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver
- - [Mongoid](https://github.com/mongodb/mongoid) - ODM framework
+ - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - Official Ruby driver for MongoDB
+ - [Mongoid](https://github.com/mongodb/mongoid) - MongoDB Ruby ORM
 
 ### Rust
  - [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
