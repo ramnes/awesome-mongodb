@@ -175,7 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
- - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Motor](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
