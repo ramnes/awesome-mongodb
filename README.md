@@ -241,7 +241,7 @@ Services:
  - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
 
 ### Desktop
- - [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
+ - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
@@ -259,11 +259,11 @@ Services:
 ### Development
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
- - [Mongo Playground](https://mongoplayground.net) - Online query playground
+ - [Mongo Playground](https://github.com/feliixx/mongoplayground) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
- - [VS Code Extension](https://www.mongodb.com/docs/mongodb-vscode/)
+ - [VS Code Extension](https://github.com/mongodb-js/vscode)
 
 Services:
  - [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
@@ -316,7 +316,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
- - [WildDuck Mail Server](https://wildduck.email/) - Scalable high availability email server that uses MongoDB for email storage
+ - [WildDuck Mail Server](https://github.com/nodemailer/wildduck) - Scalable high availability email server that uses MongoDB for email storage
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
