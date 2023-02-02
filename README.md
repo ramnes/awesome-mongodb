@@ -244,20 +244,15 @@ Services:
 
 ### Desktop
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
- - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
- - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
 
 Services:
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
- - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
  - [QueryAssist](https://queryassist.com) - Modern and powerful GUI tool, cross-platform and easy-to-use
- - [Robo 3T](https://github.com/Studio3T/robomongo) - Free, native and cross-platform shell-centric GUI (formerly Robomongo)
- - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef)
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
 ### Development
