@@ -44,6 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Desktop](#desktop)
    - [Development](#development)
    - [Monitoring](#monitoring)
+   - [Low-Code](#low-code)
    - [Shell](#shell)
    - [Web](#web)
  - [Applications](#applications)
@@ -284,6 +285,20 @@ Services:
 
  - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog/) - SaaS-based monitoring
  - [Solarwindws Database Performance Monitor](https://www.solarwinds.com/database-performance-monitor) - SaaS-based query performance analytics and monitoring
+
+### Low-Code
+
+> 💡 These tools are not necessarily made for MongoDB in particular, but support it.
+
+ - [Appsmith](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
+ - [Appwrite](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
+ - [Budibase](https://github.com/Budibase/budibase) - Open-source Retool alternative
+ - [ILLA Builder](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
+ - [Tooljet](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
+
+Services:
+- [DronaHQ](https://www.dronahq.com/) - Retool alternative
+- [Retool](https://retool.com/) - Drag-and-drop editor with pre-built components to build internal tools
 
 ### Shell
  - [MongoDB Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
