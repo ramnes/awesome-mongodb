@@ -228,6 +228,8 @@ Services:
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
+
+Services:
  - [ProvenDB](https://www.provendb.com/) -  Blockchain based Data integrity solution for MongoDB
 
 ### Deployment
@@ -242,12 +244,14 @@ Services:
 
 ### Desktop
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
- - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
- - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
+
+Services:
+ - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
+ - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
