@@ -106,15 +106,32 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
+### D
+ - [vibe.d](https://vibed.org/docs#mongo0) - Community vibe.d driver
+
+### Dart
+ - [mongo_dart](https://pub.dev/packages/mongo_dart) - Community Dart driver
+
 ### Delphi
+ - [Alcinoe](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
  - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
+### Deno
+ - [deno_mongo](https://github.com/denodrivers/mongo) - Community Deno driver
+
+### Django
+ - [Djongo](https://github.com/doableware/djongo) - Community Django connector
+
 ### Elixir
+ - [elixir-mongodb-driver](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
  - [mongodb](https://github.com/kobil-systems/mongodb) - Community Elixir driver
  - [mongodb_ecto](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
+
+### Fantom
+ - [afMongo](http://pods.fantomfactory.org/pods/afMongo) - Community Fantom driver
 
 ### Go
  - [Bongo](https://github.com/go-bongo/bongo) - ODM based on mgo
@@ -163,14 +180,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Mathematica
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
+### OCaml
+ - [Mongo.ml](http://massd.github.io/mongo/) - Community OCaml driver
+
+### Perl
+ - [Former MongoDB driver](https://metacpan.org/pod/MongoDB) - Former official driver that hit EOL as of August 2020
+
 ### PHP
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+ - [mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - Community Mongo PHP adapter for applications using `ext-mongo`.
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
  - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
  - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
+
+### PowerShell
+ - [Mdbc](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
 
 ### Python
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
@@ -185,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [ODMantic](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+ - [TxMongo](https://github.com/twisted/txmongo) - Asynchronous Python/Twisted driver for MongoDB
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ### R
@@ -202,6 +230,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [driver-scala](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
  - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+
+### Smalltalk
+ - [MongoTalk](http://www.squeaksource.com/@owMxfQHesf8rqmKB/SkklhIw_) - Community Smalltalk driver
+
+### Swift
+ - [MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
 
 ## Tools
 ### Administration
