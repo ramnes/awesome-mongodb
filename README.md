@@ -260,6 +260,7 @@ Services:
 ### Development
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
+ - [migrate-mongo](https://github.com/seppevs/migrate-mongo) - Database migration tool
  - [Mongo Playground](https://github.com/feliixx/mongoplayground) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
