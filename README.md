@@ -119,9 +119,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Deno
  - [deno_mongo](https://github.com/denodrivers/mongo) - Community Deno driver
 
-### Django
- - [Djongo](https://github.com/doableware/djongo) - Community Django connector
-
 ### Elixir
  - [elixir-mongodb-driver](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
  - [mongodb](https://github.com/kobil-systems/mongodb) - Community Elixir driver
