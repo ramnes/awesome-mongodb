@@ -116,9 +116,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Alcinoe](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
  - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
-### Deno
- - [deno_mongo](https://github.com/denodrivers/mongo) - Community Deno driver
-
 ### Elixir
  - [elixir-mongodb-driver](https://github.com/zookzook/elixir-mongodb-driver) - Community Elixir driver
  - [mongodb](https://github.com/kobil-systems/mongodb) - Community Elixir driver
@@ -153,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### JavaScript
  - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+ - [deno_mongo](https://github.com/denodrivers/mongo) - Community Deno driver
  - [DeriveJS](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
  - [MEAN.JS](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
