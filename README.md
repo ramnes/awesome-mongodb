@@ -110,7 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [vibe.d](https://vibed.org/docs#mongo0) - Community vibe.d driver
 
 ### Dart
- - [mongo_dart](https://pub.dev/packages/mongo_dart) - Community Dart driver
+ - [mongo_dart](https://github.com/mongo-dart/mongo_dart) - Community Dart driver
 
 ### Delphi
  - [Alcinoe](https://github.com/MagicFoundation/Alcinoe) - Library for Delphi that includes a MongoDB client
@@ -131,7 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver
 
 ### Fantom
- - [afMongo](http://pods.fantomfactory.org/pods/afMongo) - Community Fantom driver
+ - [afMongo](https://github.com/Fantom-Factory/afMongo) - Community Fantom driver
 
 ### Go
  - [Bongo](https://github.com/go-bongo/bongo) - ODM based on mgo
@@ -232,7 +232,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ### Smalltalk
- - [MongoTalk](http://www.squeaksource.com/@owMxfQHesf8rqmKB/SkklhIw_) - Community Smalltalk driver
+ - [MongoTalk](https://github.com/pharo-nosql/mongotalk) - Community Smalltalk driver
 
 ### Swift
  - [MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
