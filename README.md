@@ -107,7 +107,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### D
- - [vibe.d](https://vibed.org/docs#mongo0) - Community vibe.d driver
+ - [vibe.d](https://vibed.org/docs#mongo) - D web framework shipping with a MongoDB driver
 
 ### Dart
  - [mongo_dart](https://github.com/mongo-dart/mongo_dart) - Community Dart driver
@@ -181,8 +181,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### PHP
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
- - [mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - Community Mongo PHP adapter for applications using `ext-mongo`.
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
+ - [mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
  - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
@@ -204,7 +204,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [ODMantic](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
- - [TxMongo](https://github.com/twisted/txmongo) - Asynchronous Python/Twisted driver for MongoDB
+ - [TxMongo](https://github.com/twisted/txmongo) - Twisted's MongoDB driver
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ### R
