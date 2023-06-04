@@ -183,9 +183,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### OCaml
  - [Mongo.ml](http://massd.github.io/mongo/) - Community OCaml driver
 
-### Perl
- - [Former MongoDB driver](https://metacpan.org/pod/MongoDB) - Former official driver that hit EOL as of August 2020
-
 ### PHP
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
