@@ -328,6 +328,7 @@ Services:
  - [Appsmith](https://github.com/appsmithorg/appsmith) - Open-source Retool alternative
  - [Appwrite](https://github.com/appwrite/appwrite) - Open-source Firebase alternative
  - [Budibase](https://github.com/Budibase/budibase) - Open-source Retool alternative
+ - [Dynaboard](https://dynaboard.com) - Generate low-code web apps from MongoDB using AI.
  - [ILLA Builder](https://github.com/illacloud/illa-builder) - Open-source Retool alternative
  - [Tooljet](https://github.com/ToolJet/ToolJet) - Open-source Retool alternative
 
