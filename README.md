@@ -199,12 +199,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mdbc](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
 
 ### Python
+ - [AtlasQ](https://github.com/certego/AtlasQ) - Wrapper to Atlas (MongoDB text search) as mongoengine syntax
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
+ - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - Flask extentionthat add mongoengine to Flask
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
- - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - Flask extentionthat add mongoengine to Flask
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Motor](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official Python driver
@@ -214,7 +215,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
  - [TxMongo](https://github.com/twisted/txmongo) - Twisted's MongoDB driver
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
- - [AtlasQ](https://github.com/certego/AtlasQ) - Wrapper to Atlas (MongoDB text search) as mongoengine syntax
 
 ### R
  - [mongolite](https://github.com/jeroen/mongolite) - Fast and simple client for R
