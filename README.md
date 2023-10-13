@@ -166,6 +166,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Moonridge](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
+ - [Neuledge](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Julia
