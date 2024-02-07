@@ -283,6 +283,7 @@ Services:
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
+ - [WebDB](https://webdb.app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 Services:
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
