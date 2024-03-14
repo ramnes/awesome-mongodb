@@ -173,6 +173,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C driver bindings
  
 ### Kotlin
+- [driver-kotlin-coroutine](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
 - [kmongo](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ### Lisp
