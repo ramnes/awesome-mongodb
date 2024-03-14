@@ -59,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ## Resources
 ### Documentation
  - [MongoDB Server Introduction](https://www.mongodb.com/docs/manual/introduction/)
- - [MongoDB Server Documentation](https://www.mongodb.com/manual/)
+ - [MongoDB Server Documentation](https://www.mongodb.com/docs/manual/)
  - [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
  - [MongoDB Guides](https://www.mongodb.com/docs/guides/)
  - [MongoDB Developer Center](https://www.mongodb.com/developer/)
@@ -254,7 +254,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
 
 Services:
- - [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
  - [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
@@ -290,7 +289,6 @@ Services:
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
- - [QueryAssist](https://queryassist.com) - Modern and powerful GUI tool, cross-platform and easy-to-use
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
