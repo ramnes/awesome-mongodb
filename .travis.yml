@@ -1,4 +1,0 @@
-language: ruby
-rvm: 2.4.1
-before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-ssl --white-list https://github.com/sindresorhus/awesome,http://issuestats.com/github/ramnes/awesome-mongodb,https://www.youtube.com
