@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Tutorials](#tutorials)
    - [More](#more)
  - [Libraries](#libraries)
+   - [Ballerina](#ballerina)
    - [C](#c)
    - [C++](#c-1)
    - [C#/.NET](#cnet)
@@ -101,6 +102,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
 ## Libraries
+
+### Ballerina
+ - [ballerina-mongodb](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
+
 ### C
  - [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
@@ -171,7 +176,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C driver bindings
- 
+
 ### Kotlin
 - [driver-kotlin-coroutine](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
 - [kmongo](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
