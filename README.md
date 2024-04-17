@@ -209,7 +209,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [AtlasQ](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
- - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
+ - [Flask-MongoEngine](https://github.com/idoshr/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
