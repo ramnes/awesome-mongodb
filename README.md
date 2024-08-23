@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### C#/.NET ###
  - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
+ - [mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) - Official Entity Framework (EF) Core provider for MongoDB
  - [mongo-queue-csharp](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue on top of MongoDB
  - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
