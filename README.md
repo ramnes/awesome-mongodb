@@ -194,14 +194,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Mongo.ml](http://massd.github.io/mongo/) - Community OCaml driver
 
 ### PHP
- - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
- - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
- - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
- - [mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
+ - [laravel-mongodb](https://github.com/mongodb/laravel-mongodb) - Official Eloquent model and query builder for Laravel
  - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
- - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
- - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
- - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
+ - [Doctrine MongoDB ODM](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
+ - [MongoDB Bundle](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
+ - [yii-mongodb](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
+ - [opentelemetry php auto-mongodb](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
+ - [mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - Adapter for applications using `ext-mongo`
 
 ### PowerShell
  - [Mdbc](https://github.com/nightroman/Mdbc) - MongoDB cmdlets for PowerShell
