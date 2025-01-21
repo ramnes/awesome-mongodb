@@ -210,19 +210,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [AtlasQ](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
- - [Flask-MongoEngine](https://github.com/MongoEngine/flask-mongoengine) - Flask extension that integrates MongoEngine, WTForms and FlaskDebugToolbar
- - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
- - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Motor](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official Python driver
- - [PyMongoExplain](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
- - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [ODMantic](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
- - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
  - [TxMongo](https://github.com/twisted/txmongo) - Twisted's MongoDB driver
- - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
 ### R
  - [mongolite](https://github.com/jeroen/mongolite) - Fast and simple client for R
