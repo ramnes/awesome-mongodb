@@ -14,4 +14,4 @@ jobs:
       - uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          args: README.md
+          args: --exclude oreilly.com README.md
