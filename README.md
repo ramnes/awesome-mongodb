@@ -95,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Tutorials
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
  - [Sharded Cluster with Docker Compose](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+ - [Automate the Installation of MongoDB](https://cloudray.io/articles/install-mongodb)
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
