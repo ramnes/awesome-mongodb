@@ -353,6 +353,7 @@ Services:
 
 Those open-source applications have MongoDB somewhere in their stack:
 
+ - [BookCars](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
  - [Builder Book App](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
  - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
@@ -364,7 +365,6 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
  - [WildDuck Mail Server](https://github.com/nodemailer/wildduck) - Scalable high availability email server that uses MongoDB for email storage
-- [bookcars](https://github.com/aelassas/bookcars) - An open-source, cross-platform, highly customizable, scalable, and cost-efficient solution for car rental businesses
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
