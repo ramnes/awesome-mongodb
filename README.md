@@ -142,6 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Go
  - [Bongo](https://github.com/go-bongo/bongo) - ODM based on mgo
+ - [bsonic](https://github.com/kyle-williams-1/bsonic) - Parse Lucene-style query syntax into BSON filters for MongoDB
  - [mgo](https://github.com/globalsign/mgo) - Community Go driver
  - [minquery](https://github.com/icza/minquery) - MongoDB cursor that paginates
  - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - Official Go driver
