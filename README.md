@@ -359,6 +359,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [Builder Book App](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
  - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
+ - [Errbit](https://github.com/errbit/errbit) - A Ruby on Rails based tool for collecting and managing errors from other applications.
  - [FactorJS](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
  - [GrandNode](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go
