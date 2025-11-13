@@ -238,6 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoTalk](https://github.com/pharo-nosql/mongotalk) - Community Smalltalk driver
 
 ### Swift
+ - [MongoSwift](https://github.com/mongodb/mongo-swift-driver) - Official MongoDB Swift driver (discontinued)
  - [MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
 
 ## Tools
