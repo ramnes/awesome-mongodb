@@ -80,12 +80,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Books
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
- - [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
  - [MongoDB in Action, Third Edition (Arek Borucki)](https://www.manning.com/books/mongodb-in-action-third-edition)
  - [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - Free e-book: How to develop effective and optimal data manipulation and analytics pipelines
  - [The Little MongoDB Book](https://github.com/mongodb-developer/the-little-mongodb-book) - Basic introduction
- - [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
 ### Talks
  - [MongoDB Schema Design (Tugdual Grall, MongoDB Inc.)](https://www.youtube.com/watch?v=csKBT8zkRf0) [47']
@@ -358,7 +356,6 @@ Services:
 Those open-source applications have MongoDB somewhere in their stack:
 
  - [BookCars](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
- - [Builder Book App](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
  - [CodeCombat](https://github.com/codecombat/codecombat) - Multiplayer programming game for learning how to code
  - [Countly](https://github.com/countly/countly-server) - Mobile & web analytics and marketing platform built with Node.js
  - [Errbit](https://github.com/errbit/errbit) - A Ruby on Rails based tool for collecting and managing errors from other applications.
