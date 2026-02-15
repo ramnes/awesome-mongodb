@@ -63,7 +63,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoDB Server Documentation](https://www.mongodb.com/docs/manual/)
  - [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
  - [MongoDB Guides](https://www.mongodb.com/docs/guides/)
- - [MongoDB Developer Center](https://www.mongodb.com/developer/)
  - [MongoDB Driver Documentation](https://www.mongodb.com/docs/drivers/)
  - [MongoDB Connectors](https://www.mongodb.com/connectors/)
 
