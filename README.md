@@ -297,6 +297,7 @@ Services:
  - [Mongo Playground](https://github.com/feliixx/mongoplayground) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
+ - [sql-to-mongo-db-query-converter](https://github.com/vincentrussell/sql-to-mongo-db-query-converter) - Query converter from SQL to MongoDB
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
  - [VS Code Extension](https://github.com/mongodb-js/vscode)
 
