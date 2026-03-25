@@ -262,6 +262,7 @@ Services:
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
  - [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
+ - [Yaw](https://yaw.sh) - Cross-platform terminal with built-in MongoDB client, SSH client, and connection manager
 
 ### Development
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
