@@ -8,6 +8,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for MongoDB development workflow orchestration, automated database management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
  - [Resources](#resources)
    - [Documentation](#documentation)
