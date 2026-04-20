@@ -283,7 +283,7 @@ Services:
 ### Monitoring
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
- - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Free and open-source platform for managing and monitoring databases performances
+ - [Percona Monitoring and Management](https://github.com/percona/pmm) - Free and open-source platform for managing and monitoring databases performances
  - [mongotail](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 Services:
