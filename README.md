@@ -336,6 +336,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
  - [uptime](https://github.com/fzaninotto/uptime) - Remote monitoring application built with Node.js and Bootstrap
+ - [Velt Sample Apps](https://github.com/velt-js/sample-apps) - Collaboration sample apps (comments, presence, live cursors, CRDT) that self-host their data in MongoDB
  - [WildDuck Mail Server](https://github.com/nodemailer/wildduck) - Scalable high availability email server that uses MongoDB for email storage
 
 ## License
