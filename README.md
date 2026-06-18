@@ -151,10 +151,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Camo](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
  - [connect-mongo](https://github.com/jdesboeufs/connect-mongo) - MongoDB session store for Connect and Express written in Typescript.
  - [deno_mongo](https://github.com/denodrivers/mongo) - Community Deno driver
- - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
  - [MEAN.JS](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
  - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
+ - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
  - [MongoMQ2](https://github.com/morris/mongomq2) - A general-purpose message and event queuing library for MongoDB
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
