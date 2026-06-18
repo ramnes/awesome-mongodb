@@ -154,13 +154,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MEAN.JS](https://github.com/meanjs/mean) - Full stack based on MongoDB, Express, AngularJS, and Node.js
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - Full stack based on MongoDB, Express, React and Node.js
  - [Meteor](https://github.com/meteor/meteor) - Real-time/reactive client-server framework based on MongoDB, with lots of features
+ - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
  - [MongoMQ2](https://github.com/morris/mongomq2) - A general-purpose message and event queuing library for MongoDB
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Neuledge](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
- - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
  - [Typegoose](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
 
 ### Kotlin
