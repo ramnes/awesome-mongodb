@@ -42,7 +42,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Scala](#scala)
    - [Smalltalk](#smalltalk)
    - [Swift](#swift)
-   - [TypeScript](#typescript)
  - [Tools](#tools)
    - [Administration](#administration)
    - [Data](#data)
@@ -161,6 +160,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Neuledge](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
+ - [Typegoose](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
 
 ### Kotlin
 - [driver-kotlin-coroutine](https://github.com/mongodb/mongo-java-driver/tree/master/driver-kotlin-coroutine) - Official Kotlin driver
@@ -217,10 +218,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Swift
  - [MongoSwift](https://github.com/mongodb/mongo-swift-driver) - Official MongoDB Swift driver (discontinued)
  - [MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
-
-### TypeScript
- - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
- - [Typegoose](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
 
 ## Tools
 ### Administration
