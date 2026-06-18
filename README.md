@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
    - [Scala](#scala)
    - [Smalltalk](#smalltalk)
    - [Swift](#swift)
+   - [TypeScript](#typescript)
  - [Tools](#tools)
    - [Administration](#administration)
    - [Data](#data)
@@ -216,6 +217,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Swift
  - [MongoSwift](https://github.com/mongodb/mongo-swift-driver) - Official MongoDB Swift driver (discontinued)
  - [MongoKitten](https://github.com/orlandos-nl/MongoKitten) - Community asynchronous Swift driver
+
+### TypeScript
+ - [Monarch ORM](https://github.com/monarch-orm/monarch) - Type-safe ODM for MongoDB with complete type inference.
+ - [Typegoose](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
 
 ## Tools
 ### Administration
