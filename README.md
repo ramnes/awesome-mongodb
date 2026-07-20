@@ -221,6 +221,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Tools
 ### Administration
+ - [DBAegis](https://github.com/ILOGICSOFT/dbaegis-community) - Self-hosted web interface for MongoDB logical backups, schedules, history, controlled restores, and restore-drill evidence
  - [mgob](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
