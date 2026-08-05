@@ -110,6 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
  - [mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) - Official Entity Framework (EF) Core provider for MongoDB
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+ - [FluentStorage](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified polycloud API across 15+ clouds including special support for MongoDB GridFS
 
 ### D
  - [vibe.d](https://vibed.org/docs#mongo) - D web framework shipping with a MongoDB driver
