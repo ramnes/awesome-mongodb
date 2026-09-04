@@ -255,6 +255,7 @@ Services:
 ### Desktop
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
  - [DocKit](https://github.com/geek-fun/dockit) - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
+  - [LibreDB Studio](https://github.com/libredb/libredb-studio) - Open-source, self-hosted, browser-based database IDE for MongoDB and 13 other engines, with SSO, RBAC, query audit and an AI assistant that can use your own local model. MIT licensed.
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
