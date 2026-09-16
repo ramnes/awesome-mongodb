@@ -162,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Neuledge](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [Simfinity.js](https://github.com/simtlix/simfinity.js) - Generate GraphQL queries, CRUD mutations and Mongoose models from GraphQL object types
  - [Typegoose](https://github.com/typegoose/typegoose) - Define Mongoose models using TypeScript classes
 
 ### Kotlin
