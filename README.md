@@ -210,6 +210,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Scala
  - [driver-scala](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
+ - [mongo4s](https://github.com/mongo4s/mongo4s) - Effect- and codec-agnostic Scala 3 client and repository layer
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
  - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
