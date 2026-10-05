@@ -362,6 +362,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [FactorJS](https://github.com/fiction-com/factor) - JavaScript CMS built with Mongoose
  - [GrandNode](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go
+ - [LightCMS](https://github.com/jonradoff/lightcms) - AI-native CMS built with Go, with an MCP server for managing sites through AI agents
  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
