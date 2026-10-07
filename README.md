@@ -237,6 +237,7 @@ Services:
  - [Scalegrid](https://scalegrid.io) - Fully managed DBaaS (with option to bring your own Azure/AWS account)
 
 ### Data
+ - [dbclone](https://github.com/phuthuycoding/dbclone) - Clone databases or selected collections between any two servers, streamed through the official Docker image with parallel streams and retries
  - [mongo-connector](https://github.com/yougov/mongo-connector) - Streaming replication to Elasticsearch, Solr, or MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) - PostgreSQL foreign data wrapper
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
