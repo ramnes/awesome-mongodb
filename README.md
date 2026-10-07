@@ -189,6 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Python
  - [AtlasQ](https://github.com/certego/AtlasQ) - MongoDB Atlas Search wrapper with MongoEngine syntax
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+ - [client-query-cache](https://github.com/alessio-locatelli/client-query-cache) - Coherent client-side caching for PyMongo using MongoDB change streams, with synchronous and asyncio support
  - [Djongo](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
