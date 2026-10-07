@@ -265,6 +265,7 @@ Services:
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Monghoul](https://www.monghoul.com/) - MongoDB GUI with smart autocomplete, visual aggregation builder, and built-in MCP server
+ - [Mongrel](https://www.visorcraft.com/mongodb) - MongoDB GUI with SQL-to-find query translation, aggregation pipelines, and an embedded mongosh-compatible shell
  - [Moon Modeler](https://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
