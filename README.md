@@ -267,6 +267,7 @@ Services:
  - [Monghoul](https://www.monghoul.com/) - MongoDB GUI with smart autocomplete, visual aggregation builder, and built-in MCP server
  - [Moon Modeler](https://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
+ - [NoSqlStudio](https://nosqlstudio.com) - Cross-platform IDE with schema-aware IntelliSense, a V8 debugger, SQL-to-MongoDB translation, live monitoring, data masking and cross-server migration; also covers Cosmos DB and Redis
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
  - [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
