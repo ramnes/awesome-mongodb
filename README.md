@@ -314,6 +314,7 @@ Services:
 - [Retool](https://retool.com/) - Drag-and-drop editor with pre-built components to build internal tools
 
 ### Shell
+ - [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server
  - [MongoDB Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
  - [mongosh](https://github.com/mongodb-js/mongosh) - Official command-line client
 
