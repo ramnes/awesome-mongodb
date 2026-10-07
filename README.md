@@ -268,6 +268,7 @@ Services:
  - [Moon Modeler](https://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
  - [Studio 3T](https://studio3t.com/) - Cross-platform GUI, stable and powerful (formerly MongoChef and Robo 3T)
+ - [Sutido](https://sutido.com/) - Windows client with a mongo-shell editor that autocompletes from your live schema, SSH tunneling, dual driver reaching servers 3.6 and 4.0, and local snapshots of deleted documents for recovery
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
  - [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
