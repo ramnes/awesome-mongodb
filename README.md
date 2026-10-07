@@ -340,6 +340,7 @@ Those open-source applications have MongoDB somewhere in their stack:
  - [LastSaaS](https://github.com/jonradoff/lastsaas) - Open-source SaaS platform foundation with multi-tenant auth, Stripe billing, and MCP server, built with Go and MongoDB
  - [Leanote](https://github.com/leanote/leanote) - Evernote clone built with Go
  - [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software ("built for the modern web")
+ - [Posnic](https://github.com/Posnic/POS) - Offline-first open source POS and billing software for retail shops and restaurants, built with Electron, Node.js, and MongoDB
  - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - Boilerplate for SaaS products, built with TypeScript, React and Express
  - [Unchained Engine](https://github.com/unchainedshop/unchained) - Headless GraphQL e-commerce framework for Node.js
