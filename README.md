@@ -274,6 +274,7 @@ Services:
 ### Development
  - [Argon](https://github.com/argon-lab/argon) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
+ - [Keploy](https://github.com/keploy/keploy) - Records real MongoDB query results and replays them as mocks in tests, without a running database
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
  - [migrate-mongo](https://github.com/seppevs/migrate-mongo) - Database migration tool
  - [Mongo Playground](https://github.com/feliixx/mongoplayground) - Online query playground
