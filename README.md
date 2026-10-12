@@ -293,6 +293,7 @@ Services:
  - [mongo-munin](https://github.com/erh/mongo-munin) - Collection of Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
  - [Percona Monitoring and Management](https://github.com/percona/pmm) - Free and open-source platform for managing and monitoring databases performances
+ - [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitor with a MongoDB ping check and alerting
  - [mongotail](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 Services:
