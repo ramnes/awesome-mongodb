@@ -224,6 +224,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mgob](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
+ - [MongoRescue](https://github.com/YigitCittan/mongorescue) - Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption
  - [mtools](https://github.com/rueckstiess/mtools) - Collection of scripts to set up test environments and visualize log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
