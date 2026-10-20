@@ -229,6 +229,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from GridFS
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
+ - [RowSafe](https://rowsafe.sh) - Open-source MongoDB health checks and diagnostics CLI, with encrypted replica-set backups and restore testing via a Linux agent
 
 Services:
  - [MongoDB Atlas](https://www.mongodb.com/products/platform) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
