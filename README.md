@@ -245,6 +245,7 @@ Services:
 
 Services:
  - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
+ - [NoSQLSync](https://nosqlsync.com) - Hosted migration from MongoDB to PostgreSQL, MySQL, BigQuery, Snowflake and other SQL targets, with schema mapping and live CDC sync
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
