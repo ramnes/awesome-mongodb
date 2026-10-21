@@ -106,6 +106,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### C#/.NET ###
+ - [Cratis Chronicle](https://github.com/Cratis/Chronicle) - Event sourcing database and runtime for .NET with MongoDB as one of its pluggable storage options
  - [FluentStorage](https://github.com/robinrodricks/FluentStorage) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
  - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
  - [mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) - Official Entity Framework (EF) Core provider for MongoDB
