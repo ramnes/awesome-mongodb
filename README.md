@@ -254,6 +254,7 @@ Services:
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
 ### Desktop
+ - [Canopy](https://github.com/marco-bertelli/canopy) - Open-source desktop GUI for Linux with stage-by-stage aggregation previews, visual explain plans, built-in SSH tunnels and backend-enforced read-only mode; no account, zero telemetry
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
  - [DocKit](https://github.com/geek-fun/dockit) - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
