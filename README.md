@@ -260,6 +260,7 @@ Services:
  - [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [MQLens](https://github.com/mqlens/mqlens-mongodb) - Free, native, cross-platform GUI with all auth modes, TLS/SSH/SOCKS5, aggregation explain plans, schema analysis, GridFS, embedded mongosh and an optional AI query assistant; encrypted credentials, zero telemetry
+ - [Tabularis MongoDB plugin](https://github.com/TabularisDB/tabularis-mongodb-plugin) - MongoDB support for the Tabularis desktop client, including collection browsing, document queries and aggregation pipelines
  - [WebDB](https://github.com/WebDB-App/app) – Web-based and open-source "efficient database IDE". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more
 
 Services:
