@@ -255,6 +255,7 @@ Services:
 
 ### Desktop
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB
+ - [DBine](https://github.com/addlayer-io/dbine) - Free and open-source (Apache 2.0) cross-platform desktop manager for 130+ databases and cloud services, MongoDB included, with collection browsing, a query editor, notebooks and cross-engine migration (Rust + Tauri)
  - [DocKit](https://github.com/geek-fun/dockit) - Open-source MongoDB GUI client with built-in Data AI Agent for natural language queries, collection management, and import/export. Cross-platform (Tauri + Vue 3).
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoDB MCP Server](https://github.com/mongodb-js/mongodb-mcp-server) - Official Model Context Protocol server for interacting with MongoDB databases and MongoDB Atlas
