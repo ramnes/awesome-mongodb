@@ -6,6 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Make an individual pull request for each suggestion.
 - Use the following format: `[Resource Name](link) - Short description`
+- If it’s open source, the link should point to the source code (e.g. the GitHub repository page).
 - Don't repeat the resource name in the description.
 - Link additions should be added in alphabetical order to the relevant category.
 - Check your spelling and grammar.
