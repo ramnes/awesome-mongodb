@@ -100,6 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [ballerina-mongodb](https://github.com/ballerina-platform/module-ballerinax-mongodb) - Official Ballerina driver
 
 ### C
+ - [libmongoc-binaries](https://github.com/jamalofski/libmongoc-binaries) - Unofficial prebuilt Windows and Linux binaries of the official C driver
  - [mongo-c-driver](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### C++
