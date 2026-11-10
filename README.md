@@ -267,6 +267,7 @@ Services:
   - [Beekeeper Studio](https://www.beekeeperstudio.io/db/mongodb-client/) - Cross-platform database manager with native MongoDB support in the paid tiers (Professional and Business), plus MySQL, Postgres, SQLite, and more.
  - [BsonJet](https://bsonjet.com) - Native cross-platform GUI (no Electron, no Java), free for personal use; copy databases between servers, encrypted backups, replica set health
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
+ - [DbSchema](https://dbschema.com/databases/mongodb/) - Infers the structure of collections from sampled documents and draws it as diagrams, with HTML documentation; free Community Edition
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Monghoul](https://www.monghoul.com/) - MongoDB GUI with smart autocomplete, visual aggregation builder, and built-in MCP server
  - [Moon Modeler](https://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
