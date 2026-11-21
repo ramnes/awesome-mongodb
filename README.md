@@ -158,6 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [MongoMQ2](https://github.com/morris/mongomq2) - A general-purpose message and event queuing library for MongoDB
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+ - [MongoZod](https://github.com/tserdeiro/mongozod) - Lightweight, strongly typed Mongoose alternative where one Zod schema validates data end to end, from client forms to API endpoints to the database, built on the official MongoDB driver
  - [mongration](https://github.com/awapps/mongration) - Node.js migration framework
  - [Neuledge](https://github.com/neuledge/engine-js) - Universal schema-based ORM with multi-state representation for entities
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
