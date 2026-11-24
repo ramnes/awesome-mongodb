@@ -325,6 +325,7 @@ Services:
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
+ - [arcodash](https://github.com/arcodash/arcodash) - Open-source BI dashboards with built-in data checks (freshness, row count, null rate) and alerts, with a MongoDB connector
  - [mongo-express](https://github.com/mongo-express/mongo-express) - Web-based admin interface built with Express
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - Admin interface built with Django
  - [Mongoku](https://github.com/huggingface/Mongoku) - MongoDB client for the web
