@@ -231,6 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
 
 Services:
+ - [Layerbase](https://layerbase.com/db/documentdb) - Managed MongoDB-compatible databases (Microsoft DocumentDB and FerretDB), with a guided Atlas importer for FerretDB
  - [MongoDB Atlas](https://www.mongodb.com/products/platform) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
  - [ObjectRocket](https://www.objectrocket.com/) - Rackspace DBaaS offer (has other database types too)
